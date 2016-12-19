@@ -1,0 +1,2391 @@
+2016-12-17 22:34:15 - ## ---------------------------------- ##
+2016-12-17 22:34:15 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:34:15 - ## ---------------------------------- ##
+2016-12-17 22:34:15 - Config file: default.conf
+2016-12-17 22:34:17 - ... Success to connect to OPC Server:KEPware.KEPServerEX.V4
+2016-12-17 22:34:17 - ... The opcsever KEPware.KEPServerEX.V4 is connceting....
+2016-12-17 22:42:54 - ## ---------------------------------- ##
+2016-12-17 22:42:54 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:42:54 - ## ---------------------------------- ##
+2016-12-17 22:42:54 - Config file: default.conf
+2016-12-17 22:42:54 - ... Success to connect to OPC Server:KEPware.KEPServerEX.V4
+2016-12-17 22:42:54 - ... The opcsever KEPware.KEPServerEX.V4 is connceting....
+2016-12-17 22:45:06 - ## ---------------------------------- ##
+2016-12-17 22:45:06 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:45:06 - ## ---------------------------------- ##
+2016-12-17 22:45:06 - Config file: default.conf
+2016-12-17 22:45:06 - ... FAILED to read R
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read a
+2016-12-17 22:45:06 - ... FAILED to read *
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read n
+2016-12-17 22:45:06 - ... FAILED to read .
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read d
+2016-12-17 22:45:06 - ... FAILED to read P
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read o
+2016-12-17 22:45:06 - ... FAILED to read L
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read m
+2016-12-17 22:45:06 - ... FAILED to read C
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read .
+2016-12-17 22:45:06 - ... FAILED to read .
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read I
+2016-12-17 22:45:06 - ... FAILED to read T
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read n
+2016-12-17 22:45:06 - ... FAILED to read a
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read t
+2016-12-17 22:45:06 - ... FAILED to read g
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... FAILED to read 4
+2016-12-17 22:45:06 - ... FAILED to read _
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ... The opcsever Matrikon.OPC.Simulation.1 is connceting....
+2016-12-17 22:45:06 - ... FAILED to read *
+2016-12-17 22:45:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:06 - ----store to motor failed ----
+2016-12-17 22:45:26 - ... FAILED to read *
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read .
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read P
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read L
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read C
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read .
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read T
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read a
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read g
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read _
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ... FAILED to read *
+2016-12-17 22:45:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:26 - ----store to motor failed ----
+2016-12-17 22:45:46 - ... FAILED to read *
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read .
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read P
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read L
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read C
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read .
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read T
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read a
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read g
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read _
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ... FAILED to read *
+2016-12-17 22:45:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:45:46 - ----store to motor failed ----
+2016-12-17 22:46:06 - ... FAILED to read *
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read .
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read P
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read L
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read C
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read .
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read T
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read a
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read g
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read _
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ... FAILED to read *
+2016-12-17 22:46:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:06 - ----store to motor failed ----
+2016-12-17 22:46:26 - ... FAILED to read *
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read .
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read P
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read L
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read C
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read .
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read T
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read a
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read g
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read _
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ... FAILED to read *
+2016-12-17 22:46:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:26 - ----store to motor failed ----
+2016-12-17 22:46:46 - ... FAILED to read *
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read .
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read P
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read L
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read C
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read .
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read T
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read a
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read g
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read _
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ... FAILED to read *
+2016-12-17 22:46:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:46:46 - ----store to motor failed ----
+2016-12-17 22:47:06 - ... FAILED to read *
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read .
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read P
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read L
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read C
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read .
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read T
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read a
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read g
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read _
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ... FAILED to read *
+2016-12-17 22:47:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:06 - ----store to motor failed ----
+2016-12-17 22:47:26 - ... FAILED to read *
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read .
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read P
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read L
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read C
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read .
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read T
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read a
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read g
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read _
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ... FAILED to read *
+2016-12-17 22:47:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:26 - ----store to motor failed ----
+2016-12-17 22:47:46 - ... FAILED to read *
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read .
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read P
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read L
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read C
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read .
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read T
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read a
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read g
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read _
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ... FAILED to read *
+2016-12-17 22:47:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:47:46 - ----store to motor failed ----
+2016-12-17 22:48:06 - ... FAILED to read *
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read .
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read P
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read L
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read C
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read .
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read T
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read a
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read g
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read _
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ... FAILED to read *
+2016-12-17 22:48:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:06 - ----store to motor failed ----
+2016-12-17 22:48:26 - ... FAILED to read *
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read .
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read P
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read L
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read C
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read .
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read T
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read a
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read g
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read _
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ... FAILED to read *
+2016-12-17 22:48:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:26 - ----store to motor failed ----
+2016-12-17 22:48:39 - ## ---------------------------------- ##
+2016-12-17 22:48:39 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:48:39 - ## ---------------------------------- ##
+2016-12-17 22:48:39 - Config file: default.conf
+2016-12-17 22:48:40 - ... FAILED to read R
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read a
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read n
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read d
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read o
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read m
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read .
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read I
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read n
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read t
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... FAILED to read 4
+2016-12-17 22:48:40 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:40 - ... The opcsever Matrikon.OPC.Simulation.1 is connceting....
+2016-12-17 22:48:41 - ... FAILED to read *
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read .
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read P
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read L
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read C
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read .
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read T
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read a
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read g
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read _
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ... FAILED to read *
+2016-12-17 22:48:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:41 - ----store to motor failed ----
+2016-12-17 22:48:46 - ... FAILED to read *
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read .
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read P
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read L
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read C
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read .
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read T
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read a
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read g
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read _
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ... FAILED to read *
+2016-12-17 22:48:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:48:46 - ----store to motor failed ----
+2016-12-17 22:49:01 - ... FAILED to read *
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read .
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read P
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read L
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read C
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read .
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read T
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read a
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read g
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read _
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ... FAILED to read *
+2016-12-17 22:49:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:01 - ----store to motor failed ----
+2016-12-17 22:49:06 - ... FAILED to read *
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read .
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read P
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read L
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read C
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read .
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read T
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read a
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read g
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read _
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ... FAILED to read *
+2016-12-17 22:49:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:06 - ----store to motor failed ----
+2016-12-17 22:49:21 - ... FAILED to read *
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read .
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read P
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read L
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read C
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read .
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read T
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read a
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read g
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read _
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ... FAILED to read *
+2016-12-17 22:49:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:21 - ----store to motor failed ----
+2016-12-17 22:49:26 - ... FAILED to read *
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read .
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read P
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read L
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read C
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read .
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read T
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read a
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read g
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read _
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ... FAILED to read *
+2016-12-17 22:49:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:26 - ----store to motor failed ----
+2016-12-17 22:49:41 - ... FAILED to read *
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read .
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read P
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read L
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read C
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read .
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read T
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read a
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read g
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read _
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ... FAILED to read *
+2016-12-17 22:49:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:41 - ----store to motor failed ----
+2016-12-17 22:49:46 - ... FAILED to read *
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read .
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read P
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read L
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read C
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read .
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read T
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read a
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read g
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read _
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ... FAILED to read *
+2016-12-17 22:49:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:49:46 - ----store to motor failed ----
+2016-12-17 22:50:01 - ... FAILED to read *
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read .
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read P
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read L
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read C
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read .
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read T
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read a
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read g
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read _
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ... FAILED to read *
+2016-12-17 22:50:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:01 - ----store to motor failed ----
+2016-12-17 22:50:06 - ... FAILED to read *
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read .
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read P
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read L
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read C
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read .
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read T
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read a
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read g
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read _
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ... FAILED to read *
+2016-12-17 22:50:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:06 - ----store to motor failed ----
+2016-12-17 22:50:21 - ... FAILED to read *
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read .
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read P
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read L
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read C
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read .
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read T
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read a
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read g
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read _
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ... FAILED to read *
+2016-12-17 22:50:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:21 - ----store to motor failed ----
+2016-12-17 22:50:26 - ... FAILED to read *
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read .
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read P
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read L
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read C
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read .
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read T
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read a
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read g
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read _
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ... FAILED to read *
+2016-12-17 22:50:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:26 - ----store to motor failed ----
+2016-12-17 22:50:41 - ... FAILED to read *
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read .
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read P
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read L
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read C
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read .
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read T
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read a
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read g
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read _
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ... FAILED to read *
+2016-12-17 22:50:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:41 - ----store to motor failed ----
+2016-12-17 22:50:46 - ... FAILED to read *
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read .
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read P
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read L
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read C
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read .
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read T
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read a
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read g
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read _
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ... FAILED to read *
+2016-12-17 22:50:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:50:46 - ----store to motor failed ----
+2016-12-17 22:51:01 - ... FAILED to read *
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read .
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read P
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read L
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read C
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read .
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read T
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read a
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read g
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read _
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ... FAILED to read *
+2016-12-17 22:51:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:01 - ----store to motor failed ----
+2016-12-17 22:51:06 - ... FAILED to read *
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read .
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read P
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read L
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read C
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read .
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read T
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read a
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read g
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read _
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ... FAILED to read *
+2016-12-17 22:51:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:06 - ----store to motor failed ----
+2016-12-17 22:51:21 - ... FAILED to read *
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read .
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read P
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read L
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read C
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read .
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read T
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read a
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read g
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read _
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ... FAILED to read *
+2016-12-17 22:51:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:21 - ----store to motor failed ----
+2016-12-17 22:51:26 - ... FAILED to read *
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read .
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read P
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read L
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read C
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read .
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read T
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read a
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read g
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read _
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ... FAILED to read *
+2016-12-17 22:51:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:26 - ----store to motor failed ----
+2016-12-17 22:51:41 - ... FAILED to read *
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read .
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read P
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read L
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read C
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read .
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read T
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read a
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read g
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read _
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ... FAILED to read *
+2016-12-17 22:51:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:41 - ----store to motor failed ----
+2016-12-17 22:51:46 - ... FAILED to read *
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read .
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read P
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read L
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read C
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read .
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read T
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read a
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read g
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read _
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ... FAILED to read *
+2016-12-17 22:51:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:51:46 - ----store to motor failed ----
+2016-12-17 22:51:57 - ## ---------------------------------- ##
+2016-12-17 22:51:57 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:51:57 - ## ---------------------------------- ##
+2016-12-17 22:51:57 - Config file: default.conf
+2016-12-17 22:51:58 - ----store to pump failed ----
+2016-12-17 22:51:59 - ----store to motor failed ----
+2016-12-17 22:52:01 - ... FAILED to read *
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read .
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read P
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read L
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read C
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read .
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read T
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read a
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read g
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read _
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ... FAILED to read *
+2016-12-17 22:52:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:01 - ----store to motor failed ----
+2016-12-17 22:52:06 - ... FAILED to read *
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read .
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read P
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read L
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read C
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read .
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read T
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read a
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read g
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read _
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ... FAILED to read *
+2016-12-17 22:52:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:06 - ----store to motor failed ----
+2016-12-17 22:52:08 - ----store to pump failed ----
+2016-12-17 22:52:18 - ----store to pump failed ----
+2016-12-17 22:52:19 - ----store to motor failed ----
+2016-12-17 22:52:21 - ... FAILED to read *
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read .
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read P
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read L
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read C
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read .
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read T
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read a
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read g
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read _
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ... FAILED to read *
+2016-12-17 22:52:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:21 - ----store to motor failed ----
+2016-12-17 22:52:26 - ... FAILED to read *
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read .
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read P
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read L
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read C
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read .
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read T
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read a
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read g
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read _
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ... FAILED to read *
+2016-12-17 22:52:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:26 - ----store to motor failed ----
+2016-12-17 22:52:28 - ----store to pump failed ----
+2016-12-17 22:52:38 - ----store to pump failed ----
+2016-12-17 22:52:39 - ----store to motor failed ----
+2016-12-17 22:52:41 - ... FAILED to read *
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read .
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read P
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read L
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read C
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read .
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read T
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read a
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read g
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read _
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ... FAILED to read *
+2016-12-17 22:52:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:41 - ----store to motor failed ----
+2016-12-17 22:52:46 - ... FAILED to read *
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read .
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read P
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read L
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read C
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read .
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read T
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read a
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read g
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read _
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ... FAILED to read *
+2016-12-17 22:52:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:52:46 - ----store to motor failed ----
+2016-12-17 22:52:48 - ----store to pump failed ----
+2016-12-17 22:52:58 - ----store to pump failed ----
+2016-12-17 22:52:59 - ----store to motor failed ----
+2016-12-17 22:53:01 - ... FAILED to read *
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read .
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read P
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read L
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read C
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read .
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read T
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read a
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read g
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read _
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ... FAILED to read *
+2016-12-17 22:53:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:01 - ----store to motor failed ----
+2016-12-17 22:53:06 - ... FAILED to read *
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read .
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read P
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read L
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read C
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read .
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read T
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read a
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read g
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read _
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ... FAILED to read *
+2016-12-17 22:53:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:06 - ----store to motor failed ----
+2016-12-17 22:53:08 - ----store to pump failed ----
+2016-12-17 22:53:18 - ----store to pump failed ----
+2016-12-17 22:53:19 - ----store to motor failed ----
+2016-12-17 22:53:21 - ... FAILED to read *
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read .
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read P
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read L
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read C
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read .
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read T
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read a
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read g
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read _
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ... FAILED to read *
+2016-12-17 22:53:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:21 - ----store to motor failed ----
+2016-12-17 22:53:26 - ... FAILED to read *
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read .
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read P
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read L
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read C
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read .
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read T
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read a
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read g
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read _
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ... FAILED to read *
+2016-12-17 22:53:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:26 - ----store to motor failed ----
+2016-12-17 22:53:28 - ----store to pump failed ----
+2016-12-17 22:53:38 - ----store to pump failed ----
+2016-12-17 22:53:39 - ----store to motor failed ----
+2016-12-17 22:53:41 - ... FAILED to read *
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read .
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read P
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read L
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read C
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read .
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read T
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read a
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read g
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read _
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ... FAILED to read *
+2016-12-17 22:53:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:41 - ----store to motor failed ----
+2016-12-17 22:53:46 - ... FAILED to read *
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read .
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read P
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read L
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read C
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read .
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read T
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read a
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read g
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read _
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ... FAILED to read *
+2016-12-17 22:53:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:53:46 - ----store to motor failed ----
+2016-12-17 22:53:48 - ----store to pump failed ----
+2016-12-17 22:53:58 - ----store to pump failed ----
+2016-12-17 22:53:59 - ----store to motor failed ----
+2016-12-17 22:54:01 - ... FAILED to read *
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read .
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read P
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read L
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read C
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read .
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read T
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read a
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read g
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read _
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ... FAILED to read *
+2016-12-17 22:54:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:01 - ----store to motor failed ----
+2016-12-17 22:54:06 - ... FAILED to read *
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read .
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read P
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read L
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read C
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read .
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read T
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read a
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read g
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read _
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ... FAILED to read *
+2016-12-17 22:54:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:06 - ----store to motor failed ----
+2016-12-17 22:54:08 - ----store to pump failed ----
+2016-12-17 22:54:18 - ----store to pump failed ----
+2016-12-17 22:54:19 - ----store to motor failed ----
+2016-12-17 22:54:21 - ... FAILED to read *
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read .
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read P
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read L
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read C
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read .
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read T
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read a
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read g
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read _
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ... FAILED to read *
+2016-12-17 22:54:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:21 - ----store to motor failed ----
+2016-12-17 22:54:26 - ... FAILED to read *
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read .
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read P
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read L
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read C
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read .
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read T
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read a
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read g
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read _
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ... FAILED to read *
+2016-12-17 22:54:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:26 - ----store to motor failed ----
+2016-12-17 22:54:28 - ----store to pump failed ----
+2016-12-17 22:54:38 - ----store to pump failed ----
+2016-12-17 22:54:39 - ----store to motor failed ----
+2016-12-17 22:54:41 - ... FAILED to read *
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read .
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read P
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read L
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read C
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read .
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read T
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read a
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read g
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read _
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ... FAILED to read *
+2016-12-17 22:54:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:41 - ----store to motor failed ----
+2016-12-17 22:54:46 - ... FAILED to read *
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read .
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read P
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read L
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read C
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read .
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read T
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read a
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read g
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read _
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ... FAILED to read *
+2016-12-17 22:54:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:54:46 - ----store to motor failed ----
+2016-12-17 22:54:48 - ----store to pump failed ----
+2016-12-17 22:54:58 - ----store to pump failed ----
+2016-12-17 22:54:59 - ----store to motor failed ----
+2016-12-17 22:55:01 - ... FAILED to read *
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read .
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read P
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read L
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read C
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read .
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read T
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read a
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read g
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read _
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ... FAILED to read *
+2016-12-17 22:55:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:01 - ----store to motor failed ----
+2016-12-17 22:55:06 - ... FAILED to read *
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read .
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read P
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read L
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read C
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read .
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read T
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read a
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read g
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read _
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ... FAILED to read *
+2016-12-17 22:55:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:06 - ----store to motor failed ----
+2016-12-17 22:55:08 - ----store to pump failed ----
+2016-12-17 22:55:18 - ----store to pump failed ----
+2016-12-17 22:55:19 - ----store to motor failed ----
+2016-12-17 22:55:21 - ... FAILED to read *
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read .
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read P
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read L
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read C
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read .
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read T
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read a
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read g
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read _
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ... FAILED to read *
+2016-12-17 22:55:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:21 - ----store to motor failed ----
+2016-12-17 22:55:26 - ... FAILED to read *
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read .
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read P
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read L
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read C
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read .
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read T
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read a
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read g
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read _
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ... FAILED to read *
+2016-12-17 22:55:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:26 - ----store to motor failed ----
+2016-12-17 22:55:28 - ----store to pump failed ----
+2016-12-17 22:55:38 - ----store to pump failed ----
+2016-12-17 22:55:39 - ----store to motor failed ----
+2016-12-17 22:55:41 - ... FAILED to read *
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read .
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read P
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read L
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read C
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read .
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read T
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read a
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read g
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read _
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ... FAILED to read *
+2016-12-17 22:55:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:41 - ----store to motor failed ----
+2016-12-17 22:55:46 - ... FAILED to read *
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read .
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read P
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read L
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read C
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read .
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read T
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read a
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read g
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read _
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ... FAILED to read *
+2016-12-17 22:55:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:55:46 - ----store to motor failed ----
+2016-12-17 22:55:48 - ----store to pump failed ----
+2016-12-17 22:55:58 - ----store to pump failed ----
+2016-12-17 22:55:59 - ----store to motor failed ----
+2016-12-17 22:56:01 - ... FAILED to read *
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read .
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read P
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read L
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read C
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read .
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read T
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read a
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read g
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read _
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ... FAILED to read *
+2016-12-17 22:56:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:01 - ----store to motor failed ----
+2016-12-17 22:56:06 - ... FAILED to read *
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read .
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read P
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read L
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read C
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read .
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read T
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read a
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read g
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read _
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ... FAILED to read *
+2016-12-17 22:56:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:06 - ----store to motor failed ----
+2016-12-17 22:56:08 - ----store to pump failed ----
+2016-12-17 22:56:18 - ----store to pump failed ----
+2016-12-17 22:56:19 - ----store to motor failed ----
+2016-12-17 22:56:21 - ... FAILED to read *
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read .
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read P
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read L
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read C
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read .
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read T
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read a
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read g
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read _
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ... FAILED to read *
+2016-12-17 22:56:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:21 - ----store to motor failed ----
+2016-12-17 22:56:26 - ... FAILED to read *
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read .
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read P
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read L
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read C
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read .
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read T
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read a
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read g
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read _
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ... FAILED to read *
+2016-12-17 22:56:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:26 - ----store to motor failed ----
+2016-12-17 22:56:28 - ----store to pump failed ----
+2016-12-17 22:56:31 - ## ---------------------------------- ##
+2016-12-17 22:56:31 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:56:31 - ## ---------------------------------- ##
+2016-12-17 22:56:31 - Config file: default.conf
+2016-12-17 22:56:32 - ----store to pump failed ----
+2016-12-17 22:56:33 - ----store to motor failed ----
+2016-12-17 22:56:38 - ----store to pump failed ----
+2016-12-17 22:56:41 - ... FAILED to read *
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read .
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read P
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read L
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read C
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read .
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read T
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read a
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read g
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read _
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ... FAILED to read *
+2016-12-17 22:56:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:41 - ----store to motor failed ----
+2016-12-17 22:56:42 - ----store to pump failed ----
+2016-12-17 22:56:46 - ... FAILED to read *
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read .
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read P
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read L
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read C
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read .
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read T
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read a
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read g
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read _
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ... FAILED to read *
+2016-12-17 22:56:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:46 - ----store to motor failed ----
+2016-12-17 22:56:52 - ----store to pump failed ----
+2016-12-17 22:56:53 - ----store to motor failed ----
+2016-12-17 22:56:54 - ## ---------------------------------- ##
+2016-12-17 22:56:54 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:56:54 - ## ---------------------------------- ##
+2016-12-17 22:56:54 - Config file: default.conf
+2016-12-17 22:56:55 - ... FAILED to read Random.Int4
+2016-12-17 22:56:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:55 - ... FAILED to read 
+2016-12-17 22:56:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:55 - ... FAILED to read 
+2016-12-17 22:56:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:55 - ----store to pump failed ----
+2016-12-17 22:56:56 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:56:56 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:56:56 - ----store to motor failed ----
+2016-12-17 22:57:01 - ... FAILED to read *
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read .
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read P
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read L
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read C
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read .
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read T
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read a
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read g
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read _
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ... FAILED to read *
+2016-12-17 22:57:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:01 - ----store to motor failed ----
+2016-12-17 22:57:05 - ... FAILED to read Random.Int4
+2016-12-17 22:57:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:05 - ... FAILED to read 
+2016-12-17 22:57:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:05 - ... FAILED to read 
+2016-12-17 22:57:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:05 - ----store to pump failed ----
+2016-12-17 22:57:06 - ... FAILED to read *
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read .
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read P
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read L
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read C
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read .
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read T
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read a
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read g
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read _
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ... FAILED to read *
+2016-12-17 22:57:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:06 - ----store to motor failed ----
+2016-12-17 22:57:15 - ... FAILED to read Random.Int4
+2016-12-17 22:57:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:15 - ... FAILED to read 
+2016-12-17 22:57:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:15 - ... FAILED to read 
+2016-12-17 22:57:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:15 - ----store to pump failed ----
+2016-12-17 22:57:16 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:57:16 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:16 - ----store to motor failed ----
+2016-12-17 22:57:21 - ... FAILED to read *
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read .
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read P
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read L
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read C
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read .
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read T
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read a
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read g
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read _
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ... FAILED to read *
+2016-12-17 22:57:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:21 - ----store to motor failed ----
+2016-12-17 22:57:25 - ... FAILED to read Random.Int4
+2016-12-17 22:57:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:25 - ... FAILED to read 
+2016-12-17 22:57:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:25 - ... FAILED to read 
+2016-12-17 22:57:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:25 - ----store to pump failed ----
+2016-12-17 22:57:26 - ... FAILED to read *
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read .
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read P
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read L
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read C
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read .
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read T
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read a
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read g
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read _
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ... FAILED to read *
+2016-12-17 22:57:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:26 - ----store to motor failed ----
+2016-12-17 22:57:35 - ... FAILED to read Random.Int4
+2016-12-17 22:57:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:35 - ... FAILED to read 
+2016-12-17 22:57:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:35 - ... FAILED to read 
+2016-12-17 22:57:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:35 - ----store to pump failed ----
+2016-12-17 22:57:36 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:57:36 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:36 - ----store to motor failed ----
+2016-12-17 22:57:41 - ... FAILED to read *
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read .
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read P
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read L
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read C
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read .
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read T
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read a
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read g
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read _
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ... FAILED to read *
+2016-12-17 22:57:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:41 - ----store to motor failed ----
+2016-12-17 22:57:45 - ... FAILED to read Random.Int4
+2016-12-17 22:57:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:45 - ... FAILED to read 
+2016-12-17 22:57:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:45 - ... FAILED to read 
+2016-12-17 22:57:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:45 - ----store to pump failed ----
+2016-12-17 22:57:46 - ... FAILED to read *
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read .
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read P
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read L
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read C
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read .
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read T
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read a
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read g
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read _
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ... FAILED to read *
+2016-12-17 22:57:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:46 - ----store to motor failed ----
+2016-12-17 22:57:55 - ... FAILED to read Random.Int4
+2016-12-17 22:57:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:55 - ... FAILED to read 
+2016-12-17 22:57:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:55 - ... FAILED to read 
+2016-12-17 22:57:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:55 - ----store to pump failed ----
+2016-12-17 22:57:56 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:57:56 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:57:56 - ----store to motor failed ----
+2016-12-17 22:58:01 - ... FAILED to read *
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read .
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read P
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read L
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read C
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read .
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read T
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read a
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read g
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read _
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ... FAILED to read *
+2016-12-17 22:58:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:01 - ----store to motor failed ----
+2016-12-17 22:58:05 - ... FAILED to read Random.Int4
+2016-12-17 22:58:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:05 - ... FAILED to read 
+2016-12-17 22:58:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:05 - ... FAILED to read 
+2016-12-17 22:58:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:05 - ----store to pump failed ----
+2016-12-17 22:58:06 - ... FAILED to read *
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read .
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read P
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read L
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read C
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read .
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read T
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read a
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read g
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read _
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ... FAILED to read *
+2016-12-17 22:58:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:06 - ----store to motor failed ----
+2016-12-17 22:58:15 - ... FAILED to read Random.Int4
+2016-12-17 22:58:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:15 - ... FAILED to read 
+2016-12-17 22:58:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:15 - ... FAILED to read 
+2016-12-17 22:58:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:15 - ----store to pump failed ----
+2016-12-17 22:58:16 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:58:16 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:16 - ----store to motor failed ----
+2016-12-17 22:58:21 - ... FAILED to read *
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read .
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read P
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read L
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read C
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read .
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read T
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read a
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read g
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read _
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ... FAILED to read *
+2016-12-17 22:58:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:21 - ----store to motor failed ----
+2016-12-17 22:58:24 - ## ---------------------------------- ##
+2016-12-17 22:58:24 - ## ------STARTING opc2influxdb ------ ##
+2016-12-17 22:58:24 - ## ---------------------------------- ##
+2016-12-17 22:58:24 - Config file: default.conf
+2016-12-17 22:58:25 - ... FAILED to read Random.Int4
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ... FAILED to read 
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ... FAILED to read 
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ----store to pump failed ----
+2016-12-17 22:58:25 - ... FAILED to read Random.Int4
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ... FAILED to read 
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ... FAILED to read 
+2016-12-17 22:58:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:25 - ----store to pump failed ----
+2016-12-17 22:58:26 - ... FAILED to read *
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read .
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read P
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read L
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read C
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read .
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read T
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read a
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read g
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read _
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ... FAILED to read *
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ----store to motor failed ----
+2016-12-17 22:58:26 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:58:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:26 - ----store to motor failed ----
+2016-12-17 22:58:35 - ... FAILED to read Random.Int4
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ... FAILED to read 
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ... FAILED to read 
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ----store to pump failed ----
+2016-12-17 22:58:35 - ... FAILED to read Random.Int4
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ... FAILED to read 
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ... FAILED to read 
+2016-12-17 22:58:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:35 - ----store to pump failed ----
+2016-12-17 22:58:36 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:58:36 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:36 - ----store to motor failed ----
+2016-12-17 22:58:41 - ... FAILED to read *
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read .
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read P
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read L
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read C
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read .
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read T
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read a
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read g
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read _
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ... FAILED to read *
+2016-12-17 22:58:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:41 - ----store to motor failed ----
+2016-12-17 22:58:45 - ... FAILED to read Random.Int4
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ... FAILED to read 
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ... FAILED to read 
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ----store to pump failed ----
+2016-12-17 22:58:45 - ... FAILED to read Random.Int4
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ... FAILED to read 
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ... FAILED to read 
+2016-12-17 22:58:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:45 - ----store to pump failed ----
+2016-12-17 22:58:46 - ... FAILED to read *
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read .
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read P
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read L
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read C
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read .
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read T
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read a
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read g
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read _
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ... FAILED to read *
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ----store to motor failed ----
+2016-12-17 22:58:46 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:58:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:46 - ----store to motor failed ----
+2016-12-17 22:58:55 - ... FAILED to read Random.Int4
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ... FAILED to read 
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ... FAILED to read 
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ----store to pump failed ----
+2016-12-17 22:58:55 - ... FAILED to read Random.Int4
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ... FAILED to read 
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ... FAILED to read 
+2016-12-17 22:58:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:55 - ----store to pump failed ----
+2016-12-17 22:58:56 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:58:56 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:58:56 - ----store to motor failed ----
+2016-12-17 22:59:01 - ... FAILED to read *
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read .
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read P
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read L
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read C
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read .
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read T
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read a
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read g
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read _
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ... FAILED to read *
+2016-12-17 22:59:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:01 - ----store to motor failed ----
+2016-12-17 22:59:05 - ... FAILED to read Random.Int4
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ... FAILED to read 
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ... FAILED to read 
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ----store to pump failed ----
+2016-12-17 22:59:05 - ... FAILED to read Random.Int4
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ... FAILED to read 
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ... FAILED to read 
+2016-12-17 22:59:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:05 - ----store to pump failed ----
+2016-12-17 22:59:06 - ... FAILED to read *
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read .
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read P
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read L
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read C
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read .
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read T
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read a
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read g
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read _
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ... FAILED to read *
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ----store to motor failed ----
+2016-12-17 22:59:06 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:06 - ----store to motor failed ----
+2016-12-17 22:59:15 - ... FAILED to read Random.Int4
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ... FAILED to read 
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ... FAILED to read 
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ----store to pump failed ----
+2016-12-17 22:59:15 - ... FAILED to read Random.Int4
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ... FAILED to read 
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ... FAILED to read 
+2016-12-17 22:59:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:15 - ----store to pump failed ----
+2016-12-17 22:59:16 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:16 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:16 - ----store to motor failed ----
+2016-12-17 22:59:21 - ... FAILED to read *
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read .
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read P
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read L
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read C
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read .
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read T
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read a
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read g
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read _
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ... FAILED to read *
+2016-12-17 22:59:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:21 - ----store to motor failed ----
+2016-12-17 22:59:25 - ... FAILED to read Random.Int4
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ... FAILED to read 
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ... FAILED to read 
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ----store to pump failed ----
+2016-12-17 22:59:25 - ... FAILED to read Random.Int4
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ... FAILED to read 
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ... FAILED to read 
+2016-12-17 22:59:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:25 - ----store to pump failed ----
+2016-12-17 22:59:26 - ... FAILED to read *
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read .
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read P
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read L
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read C
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read .
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read T
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read a
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read g
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read _
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ... FAILED to read *
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ----store to motor failed ----
+2016-12-17 22:59:26 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:26 - ----store to motor failed ----
+2016-12-17 22:59:35 - ... FAILED to read Random.Int4
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ... FAILED to read 
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ... FAILED to read 
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ----store to pump failed ----
+2016-12-17 22:59:35 - ... FAILED to read Random.Int4
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ... FAILED to read 
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ... FAILED to read 
+2016-12-17 22:59:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:35 - ----store to pump failed ----
+2016-12-17 22:59:36 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:36 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:36 - ----store to motor failed ----
+2016-12-17 22:59:41 - ... FAILED to read *
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read .
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read P
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read L
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read C
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read .
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read T
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read a
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read g
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read _
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ... FAILED to read *
+2016-12-17 22:59:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:41 - ----store to motor failed ----
+2016-12-17 22:59:45 - ... FAILED to read Random.Int4
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ... FAILED to read 
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ... FAILED to read 
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ----store to pump failed ----
+2016-12-17 22:59:45 - ... FAILED to read Random.Int4
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ... FAILED to read 
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ... FAILED to read 
+2016-12-17 22:59:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:45 - ----store to pump failed ----
+2016-12-17 22:59:46 - ... FAILED to read *
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read .
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read P
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read L
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read C
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read .
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read T
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read a
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read g
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read _
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ... FAILED to read *
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ----store to motor failed ----
+2016-12-17 22:59:46 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:46 - ----store to motor failed ----
+2016-12-17 22:59:55 - ... FAILED to read Random.Int4
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ... FAILED to read 
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ... FAILED to read 
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ----store to pump failed ----
+2016-12-17 22:59:55 - ... FAILED to read Random.Int4
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ... FAILED to read 
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ... FAILED to read 
+2016-12-17 22:59:55 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:55 - ----store to pump failed ----
+2016-12-17 22:59:56 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 22:59:56 - 'NoneType' object has no attribute 'read'
+2016-12-17 22:59:56 - ----store to motor failed ----
+2016-12-17 23:00:01 - ... FAILED to read *
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read .
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read P
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read L
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read C
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read .
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read T
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read a
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read g
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read _
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ... FAILED to read *
+2016-12-17 23:00:01 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:01 - ----store to motor failed ----
+2016-12-17 23:00:05 - ... FAILED to read Random.Int4
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ... FAILED to read 
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ... FAILED to read 
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ----store to pump failed ----
+2016-12-17 23:00:05 - ... FAILED to read Random.Int4
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ... FAILED to read 
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ... FAILED to read 
+2016-12-17 23:00:05 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:05 - ----store to pump failed ----
+2016-12-17 23:00:06 - ... FAILED to read *
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read .
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read P
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read L
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read C
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read .
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read T
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read a
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read g
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read _
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ... FAILED to read *
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ----store to motor failed ----
+2016-12-17 23:00:06 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 23:00:06 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:06 - ----store to motor failed ----
+2016-12-17 23:00:15 - ... FAILED to read Random.Int4
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ... FAILED to read 
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ... FAILED to read 
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ----store to pump failed ----
+2016-12-17 23:00:15 - ... FAILED to read Random.Int4
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ... FAILED to read 
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ... FAILED to read 
+2016-12-17 23:00:15 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:15 - ----store to pump failed ----
+2016-12-17 23:00:16 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 23:00:16 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:16 - ----store to motor failed ----
+2016-12-17 23:00:21 - ... FAILED to read *
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read .
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read P
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read L
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read C
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read .
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read T
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read a
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read g
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read _
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ... FAILED to read *
+2016-12-17 23:00:21 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:21 - ----store to motor failed ----
+2016-12-17 23:00:25 - ... FAILED to read Random.Int4
+2016-12-17 23:00:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:25 - ... FAILED to read 
+2016-12-17 23:00:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:25 - ... FAILED to read 
+2016-12-17 23:00:25 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:25 - ----store to pump failed ----
+2016-12-17 23:00:26 - ... FAILED to read *
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read .
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read P
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read L
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read C
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read .
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read T
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read a
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read g
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read _
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ... FAILED to read *
+2016-12-17 23:00:26 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:26 - ----store to motor failed ----
+2016-12-17 23:00:35 - ... FAILED to read Random.Int4
+2016-12-17 23:00:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:35 - ... FAILED to read 
+2016-12-17 23:00:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:35 - ... FAILED to read 
+2016-12-17 23:00:35 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:35 - ----store to pump failed ----
+2016-12-17 23:00:36 - ... FAILED to read *.PLC.Tag_*
+2016-12-17 23:00:36 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:36 - ----store to motor failed ----
+2016-12-17 23:00:41 - ... FAILED to read *
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read .
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read P
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read L
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read C
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read .
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read T
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read a
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read g
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read _
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ... FAILED to read *
+2016-12-17 23:00:41 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:41 - ----store to motor failed ----
+2016-12-17 23:00:45 - ... FAILED to read Random.Int4
+2016-12-17 23:00:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:45 - ... FAILED to read 
+2016-12-17 23:00:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:45 - ... FAILED to read 
+2016-12-17 23:00:45 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:45 - ----store to pump failed ----
+2016-12-17 23:00:46 - ... FAILED to read *
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read .
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read P
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read L
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read C
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read .
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read T
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read a
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read g
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read _
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ... FAILED to read *
+2016-12-17 23:00:46 - 'NoneType' object has no attribute 'read'
+2016-12-17 23:00:46 - ----store to motor failed ----
